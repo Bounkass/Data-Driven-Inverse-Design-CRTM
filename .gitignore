@@ -1,0 +1,7 @@
+*.txt
+!requirements.txt
+*.pdf
+*.keras
+*.png
+*.m
+.ipynb_checkpoints/
